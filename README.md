@@ -11,17 +11,17 @@
 
 Held in-class on laptop. May include MCQs, essay questions, and/or mini cases.
 
-### Chapters Covered on the Final
+### Chapters Covered on the Final (4 questions total)
 
 | Chapter | Topic |
 |---------|-------|
+| Ch 5 | Shared Value and Competitive Advantage |
 | Ch 6 | Business Strategy: Differentiation, Cost Leadership, and Blue Oceans |
 | Ch 8 | Corporate Strategy: Vertical Integration and Diversification |
 | Ch 10 | Global Strategy: Competing Around the World |
 | Ch 11 | Organizational Design: Structure, Culture, & Control |
-| Ch 12 | Corporate Governance, Business Ethics, and Business Models |
 
-> The midterm covered Ch 1–5 (What Is Strategy, Strategic Leadership, External Analysis, Internal Analysis, Shared Value).
+> The midterm covered Ch 1–4 (What Is Strategy, Strategic Leadership, External Analysis, Internal Analysis).
 
 ---
 
